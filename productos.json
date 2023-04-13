@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "producto": "Samsung Galaxy S22",
+      "descripcion": "Celular de Samsung"
+    },
+    {
+      "id": 2,
+      "producto": "Edifier S2000Pro",
+      "descripcion": "Parlantes de alta gama"
+    },
+    {
+      "id": 3,
+      "producto": "Asus Rog Strix 16",
+      "descripcion": "Laptop Gamer"
+    }
+  ]
